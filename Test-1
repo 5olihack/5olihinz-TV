@@ -4,6 +4,8 @@
 "url": "https://raw.githubusercontent.com/5olihack/5olihinz-TV/refs/heads/main/Test-1",
 "info": "",
 
+"groups": [
+
 {
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png" group-title="ช่องทีวีดิจิตอล",NBTHD
@@ -196,3 +198,5 @@ https://live12.inwstream.com/transcoder_F1/fwsov_fw-iptv.stream/chunks.m3u8?nimb
 #EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png" group-title="ช่องบันเทิง",Thainews
 https://live.thaitvstream.com/play/thainews/index.m3u8
 }
+]
+
