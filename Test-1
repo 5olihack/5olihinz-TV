@@ -4,6 +4,7 @@
 "url": "https://raw.githubusercontent.com/5olihack/5olihinz-TV/refs/heads/main/Test-1",
 "info": "",
 
+{
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png" group-title="ช่องทีวีดิจิตอล",NBTHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -194,3 +195,4 @@ https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist
 https://live12.inwstream.com/transcoder_F1/fwsov_fw-iptv.stream/chunks.m3u8?nimblesessionid=28861983&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI1IDQ6MjA6MTEgQU0maGFzaF92YWx1ZT16M3hsS2VsSGpxcFNVL1NNOFc3YzNRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png" group-title="ช่องบันเทิง",Thainews
 https://live.thaitvstream.com/play/thainews/index.m3u8
+}
